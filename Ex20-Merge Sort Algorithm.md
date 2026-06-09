@@ -3,9 +3,9 @@
 ## DATE:13.11.2025  
 
 ### Developed by
-**Name:** Shanmuga Vasanth M
+**Name:** ABIRAMI N
 
-**Register Number:** 212223040191 
+**Register Number:** 212224220005 
 
 ## AIM:
 To design a program that sorts a given array of integers in ascending order without using built-in sorting functions, achieving O(n log n) time complexity and minimal space usage.
