@@ -3,9 +3,9 @@
 ## DATE:13.11.2025  
 
 ### Developed by
-**Name:** Shanmuga Vasanth M
+**Name:** ABIRAMI N
 
-**Register Number:** 212223040191  
+**Register Number:** 212224220005  
 
 ## AIM:
 To write a Java program that reverses an input string using a stack, without using built-in reverse functions.
